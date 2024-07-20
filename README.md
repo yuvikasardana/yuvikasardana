@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yuvikasardana
 - 👀 I’m interested in data science and analytics
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on web development and machine learning projects 
+- 🌱 I’m currently learning machine learning algorithms using python 
+- 💞️ I’m looking to collaborate on web development, data science projects.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm not great at fun facts. Can I interest you in a sarcastic comment?
 

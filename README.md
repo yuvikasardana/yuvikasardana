@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning machine learning algorithms using python 
 - 💞️ I’m looking to collaborate on web development, data science projects.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm not great at fun facts. Can I interest you in a sarcastic comment?
+- ⚡ Fun fact: I'm not good at fun facts. Can I interest you in a sarcastic comment?
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/creepilycute23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yuvikasardana/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/creepilycute23) 

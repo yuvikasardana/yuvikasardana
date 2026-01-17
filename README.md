@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yuvikasardana
-- 👀 I’m interested in data science and analytics
+- 👀 I’m interested in AI/ML and creating an interactive UI for my models
 - 🌱 I’m currently learning machine learning algorithms using python 
 - 💞️ I’m looking to collaborate on web development, data science projects.
 - 😄 Pronouns: she/her
